@@ -1,0 +1,370 @@
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+1
+
+===ADD PRODUCT===
+
+....................................................................................................
+Enter Product Id:
+E101
+Enter Product Name:
+Headphone
+Enter Product Category:
+Electronics
+Enter Price:
+500
+Enter Quantity: 
+30
+Product Added!!
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+1
+
+===ADD PRODUCT===
+
+....................................................................................................
+Enter Product Id:
+C101
+Enter Product Name:
+Shaving Cream
+Enter Product Category:
+Cosmetics
+Enter Price:
+200
+Enter Quantity: 
+60
+Product Added!!
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+1
+
+===ADD PRODUCT===
+
+....................................................................................................
+Enter Product Id:
+E102
+Enter Product Name:
+Fridge
+Enter Product Category:
+Electronics
+Enter Price:
+20000
+Enter Quantity: 
+12
+Product Added!!
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+6
+
+===LAST 5 TRASNACTIONS===
+
+....................................................................................................
+ADDED E101 Quantity: 30 at Wed Oct 28 14:10:16 IST 2026
+
+ADDED C101 Quantity: 60 at Wed Oct 28 14:10:35 IST 2026
+
+ADDED E102 Quantity: 12 at Wed Oct 28 14:10:59 IST 2026
+
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+1
+
+===ADD PRODUCT===
+
+....................................................................................................
+Enter Product Id:
+C102
+Enter Product Name:
+Comb
+Enter Product Category:
+Cosmetics
+Enter Price:
+30
+Enter Quantity: 
+40
+Product Added!!
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+1
+
+===ADD PRODUCT===
+
+....................................................................................................
+Enter Product Id:
+F101
+Enter Product Name:
+Cookies
+Enter Product Category:
+Eateries
+Enter Price:
+40
+Enter Quantity: 
+25
+Product Added!!
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+3
+
+===VIEW PRODUCT===
+
+....................................................................................................
+View Products sorted by
+1.Price
+2.Inventory Value
+3.Name
+
+1
+SKU        Name                 Category        Price      Qty      Value       
+-------------------------------------------------------------------------------------
+C102       Comb                 Cosmetics       ₹30.00     40       ₹1200.00    
+F101       Cookies              Eateries        ₹40.00     25       ₹1000.00    
+C101       Shaving Cream        Cosmetics       ₹200.00    60       ₹12000.00   
+E101       Headphone            Electronics     ₹500.00    30       ₹15000.00   
+E102       Fridge               Electronics     ₹20000.00  12       ₹240000.00  
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+3
+
+===VIEW PRODUCT===
+
+....................................................................................................
+View Products sorted by
+1.Price
+2.Inventory Value
+3.Name
+
+2
+SKU        Name                 Category        Price      Qty      Value       
+-------------------------------------------------------------------------------------
+F101       Cookies              Eateries        ₹40.00     25       ₹1000.00    
+C102       Comb                 Cosmetics       ₹30.00     40       ₹1200.00    
+C101       Shaving Cream        Cosmetics       ₹200.00    60       ₹12000.00   
+E101       Headphone            Electronics     ₹500.00    30       ₹15000.00   
+E102       Fridge               Electronics     ₹20000.00  12       ₹240000.00  
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+3
+
+===VIEW PRODUCT===
+
+....................................................................................................
+View Products sorted by
+1.Price
+2.Inventory Value
+3.Name
+
+3
+SKU        Name                 Category        Price      Qty      Value       
+-------------------------------------------------------------------------------------
+C102       Comb                 Cosmetics       ₹30.00     40       ₹1200.00    
+F101       Cookies              Eateries        ₹40.00     25       ₹1000.00    
+E102       Fridge               Electronics     ₹20000.00  12       ₹240000.00  
+E101       Headphone            Electronics     ₹500.00    30       ₹15000.00   
+C101       Shaving Cream        Cosmetics       ₹200.00    60       ₹12000.00   
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+4
+
+===SEARCH PRODUCT===
+
+....................................................................................................
+Enter keyword:
+Cos
+SEARCH RESULTS FOR 'cos':
+SKU        Name                 Category        Price      Qty      Value       
+-------------------------------------------------------------------------------------
+C101       Shaving Cream        Cosmetics       ₹200.00    60       ₹12000.00   
+C102       Comb                 Cosmetics       ₹30.00     40       ₹1200.00    
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+2
+
+===UPDATE QUANTITY===
+
+....................................................................................................
+Enter product Id:
+E102
+Enter Quantity: 
+6
+Updated Succesfully!!!
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+5
+
+===LOW STOCK ALERTS===
+
+....................................................................................................
+Low stock alert for Products with Product Ids: 
+E102
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+6
+
+===LAST 5 TRASNACTIONS===
+
+....................................................................................................
+ADDED E101 Quantity: 30 at Wed Oct 28 14:10:16 IST 2026
+ADDED C101 Quantity: 60 at Wed Oct 28 14:10:35 IST 2026
+ADDED E102 Quantity: 6 at Wed Oct 28 14:12:57 IST 2026
+ADDED C102 Quantity: 40 at Wed Oct 28 14:11:29 IST 2026
+ADDED F101 Quantity: 25 at Wed Oct 28 14:12:00 IST 2026
+UPDATED E102 Quantity changed from 12 to 6 at Wed Oct 28 14:12:57 IST 2026
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+7
+
+===INVENTORY STATISTICS===
+
+----------------------------------------------------------------------------------------------------
+Total Products: 5
+----------------------------------------------------------------------------------------------------
+TYPE: electronics
+Products: 2
+Total value: 135000.0
+----------------------------------------------------------------------------------------------------
+TYPE: eateries
+Products: 1
+Total value: 1000.0
+----------------------------------------------------------------------------------------------------
+TYPE: cosmetics
+Products: 2
+Total value: 13200.0
+----------------------------------------------------------------------------------------------------
+
+=== INVENTORY MANAGEMENT SYSTEM ===
+1. Add Product
+2. Update Quantity
+3. View Products (Sorted)
+4. Search Products
+5. Low Stock Alerts
+6. Transaction History
+7. Inventory Statistics
+8. Exit
+Enter your choice:
+8
